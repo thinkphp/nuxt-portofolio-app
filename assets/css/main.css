@@ -1,0 +1,33 @@
+/* FONTS */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --body-color: 159 100% 97%;
+    --text-color: 159 20% 42%;
+    --text-color-light: 159 4% 55%;
+    --nav-color: 142 62% 75%;
+    --menu-color: 159 5% 29%;
+    --menu-color-alt: 159 80% 60%;
+    --title-color: 159 15% 95%;
+  }
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: hsl(var(--body-color));
+}

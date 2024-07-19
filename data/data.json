@@ -1,0 +1,308 @@
+{
+    "main": {
+        "full_name": "Abdurikho Min Khoiri",
+        "short_name": "Rikho",
+        "job_title": "Software Engineer",
+        "profile_photo_path_1": "/images/profile-full.png",
+        "profile_photo_path_2": "/images/profile-2.png",
+        "cv_path": "",
+        "social": [
+            {
+                "name": "linkedin",
+                "url": "https://linkedin.com/in/abdurikho",
+                "icon": "bxl-linkedin-square" 
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/rikhoari01",
+                "icon": "bxl-github"
+            },
+            {
+                "name": "instagram",
+                "url": "https://instagram.com/abdurikho_",
+                "icon": "bxl-instagram-alt"
+            }
+        ],
+        "working_start_years": "2022-11-01",
+        "total_projects": "10",
+        "self_descriptions": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. In, nobis assumenda. Officia dolorum voluptate saepe obcaecati magni laudantium atque, dicta earum blanditiis animi eum repellendus magnam ex harum velit consectetur!",
+        "skills": [
+            {
+                "name": "HTML",
+                "icon": "https://www.svgrepo.com/show/349402/html5.svg"
+            },
+            {
+                "name": "CSS",
+                "icon": "https://www.svgrepo.com/show/349330/css3.svg"
+            },
+            {
+                "name": "Javascript",
+                "icon": "https://www.svgrepo.com/show/349419/javascript.svg"
+            },
+            {
+                "name": "PHP",
+                "icon": "https://www.svgrepo.com/show/373966/php.svg"
+            },
+            {
+                "name": "C/C++",
+                "icon": "https://www.svgrepo.com/show/353614/c-plusplus.svg"
+            },
+            {
+                "name": "C#",
+                "icon": "https://www.svgrepo.com/show/353622/c-sharp.svg"
+            },
+            {
+                "name": "Python",
+                "icon": "https://www.svgrepo.com/show/354238/python.svg"
+            },
+            {
+                "name": "Ruby",
+                "icon": "https://www.svgrepo.com/show/354298/ruby.svg"
+            },
+            {
+                "name": "Laravel",
+                "icon": "https://www.svgrepo.com/show/353985/laravel.svg"
+            },
+            {
+                "name": "Vue.js",
+                "icon": "https://www.svgrepo.com/show/354528/vue.svg"
+            },
+            {
+                "name": "Nuxt.js",
+                "icon": "https://www.svgrepo.com/show/354131/nuxt-icon.svg"
+            },
+            {
+                "name": "React.js",
+                "icon": "https://www.svgrepo.com/show/452092/react.svg"
+            },
+            {
+                "name": "Next.js",
+                "icon": "https://www.svgrepo.com/show/369457/nextjs.svg"
+            },
+            {
+                "name": "Ruby on Rails",
+                "icon": "https://www.svgrepo.com/show/354252/rails.svg"
+            },
+            {
+                "name": "Bootstrap",
+                "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
+            },
+            {
+                "name": "Tailwind CSS",
+                "icon": "https://www.svgrepo.com/show/374118/tailwind.svg"
+            },
+            {
+                "name": "Node.js",
+                "icon": "https://www.svgrepo.com/show/354119/nodejs-icon.svg"
+            },
+            {
+                "name": "Express.js",
+                "icon": "https://www.svgrepo.com/show/330398/express.svg"
+            },
+            {
+                "name": "Wordpress",
+                "icon": "https://www.svgrepo.com/show/475696/wordpress-color.svg"
+            },
+            {
+                "name": "MySQL",
+                "icon": "https://www.svgrepo.com/show/303251/mysql-logo.svg"
+            },
+            {
+                "name": "PostgreSQL",
+                "icon": "https://www.svgrepo.com/show/354200/postgresql.svg"
+            },
+            {
+                "name": "MS SQL Server",
+                "icon": "https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
+            },
+            {
+                "name": "Oracle Database",
+                "icon": "https://www.svgrepo.com/show/354152/oracle.svg"
+            },
+            {
+                "name": "Mongo DB",
+                "icon": "https://svgmix.com/uploads/449480-mongodb.svg"
+            },
+            {
+                "name": "AWS Cloud",
+                "icon": "https://www.svgrepo.com/show/448266/aws.svg"
+            },
+            {
+                "name": "Azure Cloud",
+                "icon": "https://www.svgrepo.com/show/353464/azure.svg"
+            },
+            {
+                "name": "Postman",
+                "icon": "https://www.svgrepo.com/show/354202/postman-icon.svg"
+            },
+            {
+                "name": "Nginx",
+                "icon": "https://www.svgrepo.com/show/303554/nginx-logo.svg"
+            },
+            {
+                "name": "RHEL",
+                "icon": "https://www.svgrepo.com/show/354271/redhat.svg"
+            },
+            {
+                "name": "Git",
+                "icon": "https://www.svgrepo.com/show/452210/git.svg"
+            },
+            {
+                "name": "Unity",
+                "icon": "https://www.svgrepo.com/show/473818/unity.svg"
+            },
+            {
+                "name": "Livewire",
+                "icon": "https://svgmix.com/uploads/416e0b-laravel-livewire.svg"
+            }
+        ],
+        "certificates": [
+            {
+                "name": "Belajar Dasar Pemrograman Javascript",
+                "issuer": "Dicoding",
+                "issuer_date": "Juny 2022",
+                "image_url": "https://lh3.google.com/u/0/d/1De6UV8jbLTQdQoet5E1WLH1mpXSbljxC",
+                "detail_url": "https://drive.google.com/file/d/13vaxY5o8C9F96zhPY9X2UCAte3pzcRKI/view?usp=sharing"
+            },
+            {
+                "name": "Belajar Membuat Aplikasi Back-End untuk Pemula",
+                "issuer": "Dicoding",
+                "issuer_date": "August 2022",
+                "image_url": "https://lh3.google.com/u/0/d/1NiwCXtKonCJPb_M3wKcl8jx1ceaWLR5P",
+                "detail_url": "https://drive.google.com/file/d/1L7MFCYmKfKSbMbL3A-kglCqAHgj5oK4r/view?usp=sharing"
+            },
+            {
+                "name": "Cloud Practioner Essentials (Belajar Dasar AWS Cloud)",
+                "issuer": "Dicoding",
+                "issuer_date": "September 2022",
+                "image_url": "https://lh3.google.com/u/0/d/1HXo7CUyD5gBSIzg2v5d-NdaPSzCUbrxT",
+                "detail_url": "https://drive.google.com/file/d/1rL9mwNXvrQxVM0g-Qtp-DFJsd8j_EJlX/view?usp=sharing"
+            },
+            {
+                "name": "Ruby Course",
+                "issuer": "Progate",
+                "issuer_date": "March 2022",
+                "image_url": "https://lh3.google.com/u/0/d/1AHyeNtCz6gxOjpHksPEXfNRlZGyll4_A",
+                "detail_url": "https://drive.google.com/file/d/1AHyeNtCz6gxOjpHksPEXfNRlZGyll4_A/view?usp=sharing"
+            },
+            {
+                "name": "Ruby on Rails5 Course",
+                "issuer": "Progate",
+                "issuer_date": "March 2022",
+                "image_url": "https://lh3.google.com/u/0/d/1NtPUeaMwLTbU3QunDiFrdOGZ3kKbL3sL",
+                "detail_url": "https://drive.google.com/file/d/1NtPUeaMwLTbU3QunDiFrdOGZ3kKbL3sL/view?usp=sharing"
+            },
+            {
+                "name": "Web Development Course (Ruby on Rails)",
+                "issuer": "Progate",
+                "issuer_date": "March 2022",
+                "image_url": "https://lh3.google.com/u/0/d/1cPzBLZlwAhbQXS06cmHMBzVCoOtjRJf6",
+                "detail_url": "https://drive.google.com/file/d/1cPzBLZlwAhbQXS06cmHMBzVCoOtjRJf6/view?usp=sharing"
+            },
+            {
+                "name": "Introduction to Python",
+                "issuer": "Datacamp",
+                "issuer_date": "April 2021",
+                "image_url": "https://lh3.google.com/u/0/d/157pIM1vPgH3PEdVw3ePPsjFXO53rkvqX",
+                "detail_url": "https://drive.google.com/file/d/157pIM1vPgH3PEdVw3ePPsjFXO53rkvqX/view?usp=sharing"
+            },
+            {
+                "name": "Intermediate Python",
+                "issuer": "Datacamp",
+                "issuer_date": "April 2021",
+                "image_url": "https://lh3.google.com/u/0/d/1eVfpdch6OMLMfiKBI_RnSEKlHUXFgzL8",
+                "detail_url": "https://drive.google.com/file/d/1eVfpdch6OMLMfiKBI_RnSEKlHUXFgzL8/view?usp=sharing"
+            },
+            {
+                "name": "Machine Learning for Everyone",
+                "issuer": "Datacamp",
+                "issuer_date": "April 2021",
+                "image_url": "https://lh3.google.com/u/0/d/1I3A7hMzdJKpMnGq_mMY1CsjtpI97Atqh",
+                "detail_url": "https://drive.google.com/file/d/1I3A7hMzdJKpMnGq_mMY1CsjtpI97Atqh/view?usp=sharing"
+            }
+        ],
+        "working_experiences": [
+            {
+                "office": "PT Adi Data Informatika",
+                "office_web": "https://www.adidata.co.id/",
+                "position": "Fullstack Developer",
+                "status": "Fulltime Contract",
+                "date": "January 2024 - Now",
+                "jobdesc": [
+                    "Develop applications according to the requirements provided by the client.",
+                    "Discusses project goals with the client and development team.",
+                    "Design and build web applications using PHP Language.",
+                    "Troubleshoot issues in implementation.",
+                    "Scale projects based on client feedback.",
+                    "Maintenance application.",
+                    "Present work in meetings with clients and management."
+                ]
+            },
+            {
+                "office": "PT Akhdani Reka Solusi",
+                "office_web": "https://www.akhdani.co.id/",
+                "position": "Fullstack Developer",
+                "status": "Fulltime Contract",
+                "date": "September - December 2024",
+                "jobdesc": [
+                    "Develop applications according to the requirements provided by the client.",
+                    "Discusses project goals with the client and development team.",
+                    "Design and build web applications using PHP and Javascript Language.",
+                    "Troubleshoot issues in implementation.",
+                    "Scale projects based on client feedback.",
+                    "Maintenance application.",
+                    "Present work in meetings with clients and management."
+                ]
+            },
+            {
+                "office": "PT Aviasi Jaya Indonesia",
+                "office_web": "https://avter.co.id/",
+                "position": "Fullstack Developer",
+                "status": "Freelance",
+                "date": "November 2022 - April 2024",
+                "jobdesc": [
+                    "Adding features and debugging company applications.",
+                    "Design and implement web applications using PHP and Laravel frameworks.",
+                    "Discusses project goals with development team.",
+                    "Troubleshoot issues in implementation.",
+                    "Scale projects based on user feedbacks.",
+                    "Maintenance application."
+                ]
+            }
+        ],
+        "contacts": [
+            {
+                "name": "My Location",
+                "value": "Jakarta, Indonesia",
+                "icon": "bx-location-plus"
+            },
+            {
+                "name": "Phone",
+                "value": "+62 8123 1493 955",
+                "icon": "bx-mobile"
+            },
+            {
+                "name": "Email",
+                "value": "rikhoari02@gmail.com",
+                "icon": "bx-envelope"
+            }
+        ],
+        "connects": [
+            {
+                "name": "linkedin",
+                "icon": "bxl-linkedin-square",
+                "url": "https://linkedin.com/in/abdurikho"
+            },
+            {
+                "name": "instagram",
+                "icon": "bxl-instagram-alt",
+                "url": "https://instagram.com/abdurikho_"
+            },
+            {
+                "name": "email",
+                "icon": "bxl-gmail",
+                "url": "mailto:rikhoari02@gmail.com"
+            }
+        ]
+    }
+}
