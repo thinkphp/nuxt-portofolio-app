@@ -9,22 +9,22 @@
         "social": [
             {
                 "name": "linkedin",
-                "url": "https://linkedin.com/in/abdurikho",
+                "url": "#",
                 "icon": "bxl-linkedin-square"
             },
             {
                 "name": "github",
-                "url": "https://github.com/rikhoari01",
+                "url": "https://github.com/thinkphp",
                 "icon": "bxl-github"
             },
             {
                 "name": "instagram",
-                "url": "https://instagram.com/abdurikho_",
+                "url": "#",
                 "icon": "bxl-instagram-alt"
             }
         ],
-        "working_start_years": "2022-11-01",
-        "total_projects": "10",
+        "working_start_years": "2010-11-01",
+        "total_projects": "100",
         "self_descriptions": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. In, nobis assumenda. Officia dolorum voluptate saepe obcaecati magni laudantium atque, dicta earum blanditiis animi eum repellendus magnam ex harum velit consectetur!",
         "skills": [
             {
@@ -239,11 +239,11 @@
                 ]
             },
             {
-                "office": "PT Akhdani Reka Solusi",
-                "office_web": "https://www.akhdani.co.id/",
+                "office": "Adrian",
+                "office_web": "#",
                 "position": "Fullstack Developer",
                 "status": "Fulltime Contract",
-                "date": "September - December 2024",
+                "date": "September - December 2014",
                 "jobdesc": [
                     "Develop applications according to the requirements provided by the client.",
                     "Discusses project goals with the client and development team.",
@@ -256,7 +256,7 @@
             },
             {
                 "office": "PT Aviasi Jaya Indonesia",
-                "office_web": "https://avter.co.id/",
+                "office_web": "#",
                 "position": "Fullstack Developer",
                 "status": "Freelance",
                 "date": "November 2022 - April 2024",
@@ -273,17 +273,17 @@
         "contacts": [
             {
                 "name": "My Location",
-                "value": "Jakarta, Indonesia",
+                "value": "Zurich, Swiss",
                 "icon": "bx-location-plus"
             },
             {
                 "name": "Phone",
-                "value": "+62 8123 1493 955",
+                "value": "+40 123 123 123",
                 "icon": "bx-mobile"
             },
             {
                 "name": "Email",
-                "value": "rikhoari02@gmail.com",
+                "value": "mergesortv@gmail.com",
                 "icon": "bx-envelope"
             }
         ],
@@ -291,17 +291,17 @@
             {
                 "name": "linkedin",
                 "icon": "bxl-linkedin-square",
-                "url": "https://linkedin.com/in/abdurikho"
+                "url": "https://linkedin.com/in/statescuadrian"
             },
             {
                 "name": "instagram",
                 "icon": "bxl-instagram-alt",
-                "url": "https://instagram.com/abdurikho_"
+                "url": "#"
             },
             {
                 "name": "email",
                 "icon": "bxl-gmail",
-                "url": "mailto:rikhoari02@gmail.com"
+                "url": "mailto:mergesortv@gmail.com"
             }
         ]
     }

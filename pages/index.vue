@@ -238,9 +238,7 @@
           </li>
         </ul>
         <div>
-          &copy; Copyright 2024 
-          <p class="inline font-bold text-menuColorAlt">THIS<span class="text-white">IS</span>ME</p> 
-          | Created with <i class='bx bxs-heart text-red-300' ></i> by <a href="github.com/rikhoari01" class="underline">Rikho Ari</a>
+          &copy; Copyright 2025 
         </div>
       </footer>
     </main>
