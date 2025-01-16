@@ -1,16 +1,16 @@
 {
     "main": {
-        "full_name": "Abdurikho Min Khoiri",
-        "short_name": "Rikho",
+        "full_name": "Adrian Statescu",
+        "short_name": "Adrian",
         "job_title": "Software Engineer",
-        "profile_photo_path_1": "/images/profile-full.png",
-        "profile_photo_path_2": "/images/profile-2.png",
+        "profile_photo_path_1": "/images/profile-full.jpeg",
+        "profile_photo_path_2": "/images/profile-2.jpeg",
         "cv_path": "",
         "social": [
             {
                 "name": "linkedin",
                 "url": "https://linkedin.com/in/abdurikho",
-                "icon": "bxl-linkedin-square" 
+                "icon": "bxl-linkedin-square"
             },
             {
                 "name": "github",
